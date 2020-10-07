@@ -6,3 +6,6 @@ def bar():
 
 def bar2():
     pass
+
+def alternative_foo():
+    print("ehehehehe")
